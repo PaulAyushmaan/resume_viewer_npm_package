@@ -1,0 +1,30 @@
+{
+  "name": "paulayushmaan",
+  "version": "1.0.6",
+  "main": "index.js",
+  "bin": {
+    "paulayushmaan": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resume",
+    "cli",
+    "ayushmaan",
+    "portfolio"
+  ],
+  "author": "Ayushmaan Paul",
+  "license": "MIT",
+  "description": "Ayushmaan Paul's Resume CLI",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "figlet": "^1.8.1",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^12.6.3",
+    "nanospinner": "^1.2.2",
+    "ora": "^8.2.0"
+  },
+  "type": "module"
+}
