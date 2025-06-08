@@ -41,8 +41,7 @@ npx paulayushmaan
 You can also install globally for quick access:
 
 ```sh
-npm install -g @paulayushmaan/resume
-resume
+npm install -g paulayushmaan
 ```
 
 ---
